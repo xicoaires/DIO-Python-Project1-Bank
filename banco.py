@@ -1,3 +1,8 @@
+# Created By  : Francisco Aires
+# Github: @xicoaires
+# Created Date: 03/03/2023
+# version ='1.0'
+
 bank_extract = []
 balance = 0.0
 WITHDRAW_LIMIT_VALUE = 500
